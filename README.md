@@ -1,4 +1,4 @@
-# Marine Engine Anomaly Detection using Machine Learning
+# Engine Anomaly Detection using statistical and Machine Learning based tests
 
 ## Overview
 
@@ -55,8 +55,8 @@ Predictive Maintenance Recommendations
 
 ## Project Resources
 
-- 📑 **Final Report:** [Marine Engine Anomaly Detection Report](report/Marine_Engine_Anomaly_Detection_Report.pdf)
+- **Final Report:** [Marine Engine Anomaly Detection Report](report/Marine_Engine_Anomaly_Detection_Report.pdf)
 
-- 📓 **Jupyter Notebook:** [Anomaly Detection Notebook](notebook/marine_engine_anomaly_detection.ipynb)
+- **Jupyter Notebook:** [Anomaly Detection Notebook](notebook/marine_engine_anomaly_detection.ipynb)
 
 ---
