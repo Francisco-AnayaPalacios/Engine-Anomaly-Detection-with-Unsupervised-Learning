@@ -50,3 +50,13 @@ PCA Visualisation
 Engineering Interpretation
      ↓
 Predictive Maintenance Recommendations
+
+```
+
+## Project Resources
+
+- 📑 **Final Report:** [Marine Engine Anomaly Detection Report](report/Marine_Engine_Anomaly_Detection_Report.pdf)
+
+- 📓 **Jupyter Notebook:** [Anomaly Detection Notebook](notebook/marine_engine_anomaly_detection.ipynb)
+
+---
